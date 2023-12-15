@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Flutter, React.js, Node.js, Express.js and more**
 
-- 👨‍💻 All of my projects are available at [https://abd-ul-rafay.github.io/porfolio](https://abd-ul-rafay.github.io/porfolio)
+- 👨‍💻 All of my projects are available at [https://abd-ul-rafay.github.io/portfolio](https://abd-ul-rafay.github.io/portfolio)
 
 - 📫 How to reach me **abdulrafaykhatana@gmail.com**
 

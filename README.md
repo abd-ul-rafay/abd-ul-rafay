@@ -12,6 +12,7 @@
 <a href="https://fb.com/100075276885011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100075276885011" height="30" width="40" /></a>
 <a href="https://instagram.com/abd.ul.rafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abd.ul.rafay" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdul-rafay-98baa9291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-rafay-98baa9291" height="30" width="40" /></a>
+<a href="https://twitter.com/in/abdul-rafay-98baa9291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdul-rafay-98baa9291" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20015357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20015357" height="30" width="40" /></a>
 </p> 
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
-<h3 align="center">🚀 An Enthusiastic Mobile and Web Developer with over 2 years of experience in the tech field, dedicated to creating innovative solutions. 💻📱🌟</h3>
+<h3 align="center">🚀 An Enthusiastic Mobile and Web Developer with some years of experience in the tech field, dedicated to creating innovative solutions. 💻📱🌟</h3>
 
-- 💬 Ask me about **Flutter, React.js, Node.js, Express.js and more**
+- 💬 Ask me about **Flutter, React.js, Node.js, Django, and more**
 
 - 👨‍💻 All of my projects are available at [https://abd-ul-rafay.github.io/portfolio](https://abd-ul-rafay.github.io/portfolio)
 

@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic and driven software developer with experience in MERN Stack and Flutter, committed to delivering clean, efficient, and scalable code with a strong focus on quality and best practices.
 </h3>
 
-- 💬 Ask me about **React.js, Flutter, Node.js, Express.js, Next.js and more**
+- 💬 Ask me about **React.js, Flutter, Node.js, Express.js, Next.js, and more**
 
 - 👨‍💻 All of my projects are available at [https://abd-ul-rafay.onrender.com](https://abd-ul-rafay.onrender.com)
 

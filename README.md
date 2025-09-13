@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rafay</h1>
-<h3 align="center">An enthusiastic and driven software developer with experience in MERN Stack and Flutter, committed to delivering clean, efficient, and scalable code with a strong focus on quality and best practices.
+<h3 align="center">An enthusiastic and driven software developer with experience in React, Node, Express, Flutter, and Next committed to delivering clean, efficient, and scalable code with a strong focus on quality and best practices.
 </h3>
 
 - 💬 Ask me about **React.js, Flutter, Node.js, Express.js, Next.js, and more**
